@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Full Width Pics v5.0.3 (https://startbootstrap.com/template/full-width-pics)
 * Copyright 2013-2021 Start Bootstrap
@@ -11282,4 +11282,13 @@ textarea.form-control-lg {
   background-attachment: scroll;
   background-position: center;
   background-size: cover;
+}
+
+/*Custom*/
+.fa-facebook {
+    color: white;
+}
+
+.fa-linkedin {
+    color: white;
 }
